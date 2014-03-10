@@ -3,4 +3,4 @@
 require 'minitest'
 require 'minitest/autorun'
 require 'nanoc'
-require 'nanoc-nbconvert'
+require 'nanoc/filters/nbconvert'

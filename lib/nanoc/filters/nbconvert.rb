@@ -1,10 +1,10 @@
 # encoding: utf-8
-require "nanoc"
+
 require "open3"
 
-module Nanoc::NBConvert
+module Nanoc::Filters
 
-  class Filter < Nanoc::Filter
+  class NBConvert < Nanoc::Filter
 
     identifier :nbconvert
 

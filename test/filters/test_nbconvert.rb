@@ -2,11 +2,11 @@
 
 require 'helper'
 
-class Nanoc::NBConvert::FilterTest < Minitest::Test
+class Nanoc::Filters::NBConvertTest < Minitest::Test
 
   def test_filter
     # Create filter
-    filter = ::Nanoc::NBConvert::Filter.new
+    filter = ::Nanoc::Filters::NBConvert.new
 
     # Run filter
     fh = File.open(File.expand_path("../../data/example.html", __FILE__))
