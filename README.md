@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/kunxi/nanoc-nbconvert.png)](https://travis-ci.org/kunxi/nanoc-pandoc)
-[![Coverage Status](https://coveralls.io/repos/kunxi/nanoc-nbconvert/badge.png?branch=master)](https://coveralls.io/r/kunxi/nanoc-pandoc)
+[![Build Status](https://travis-ci.org/kunxi/nanoc-nbconvert.png)](https://travis-ci.org/kunxi/nanoc-nbconvert)
 
 # nanoc-nbconvert
 
