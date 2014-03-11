@@ -1,10 +1,11 @@
 # encoding: utf-8
 
-require "open3"
 
 module Nanoc::Filters
 
   class NBConvert < Nanoc::Filter
+
+    require "open3"
 
     identifier :nbconvert
 

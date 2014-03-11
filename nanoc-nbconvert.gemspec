@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name        = 'nanoc-nbconvert'
-  s.version     =  '0.0.1.0'
+  s.version     =  '0.1.1'
   s.homepage    = 'http://github.com/kunxi/nanoc-nbconvert'
   s.summary     = %q{A nanoc filter to convert IPython notebook}
   s.description = %q{A nanoc filter to convert IPython notebook}
